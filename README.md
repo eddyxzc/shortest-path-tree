@@ -2,7 +2,7 @@
 
 
 
-caculate shortest path tree with djik algorithm
+caculate shortest path tree with Dijkstra’s algorithm
 
 to build:
 make
