@@ -19,6 +19,7 @@ cd testing
 The complexity should be O(V+E) as I use indexed min-heap as a priority queue.
 OOP technology is used to make dynamic memory more manageable.
 It was tested with Valgrind. No memory leak was found.
+At least this version can pass 1000 nodes test, faster than boost::graph
 
 reference: Algorithms (4th Edition) by Robert Sedgewick , Kevin Wayne 
 API：
