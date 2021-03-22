@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddy/sssp/sssp-v2/testing/RandGraph/main.cpp
+boost/graph/adjacency_list.hpp
+-
+boost/graph/erdos_renyi_generator.hpp
+-
+boost/random/linear_congruential.hpp
+-
+boost/graph/graph_traits.hpp
+-
+random
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+
